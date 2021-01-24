@@ -1,4 +1,4 @@
 # github-repository-finder
-A little react project to learn React
+A little project to learn React using the github API
 
 ![Screenshot](screenshot.png)
